@@ -54,4 +54,13 @@ error: could not compile `coinflip` (lib) due to 2 previous errors
 
 2. Trained with gitingest data from https://gitingest.com/ 
 
+- Needed two times pasting the errors back into the terminal
 - Managed to get it to work with 4 tests passing. 
+
+
+3. Feeding it the program examples as well 
+
+- Needed one times pasting an error about borrow into the terminal 
+- Starting emitting events. 
+
+https://github.com/solana-developers/program-examples
